@@ -132,7 +132,7 @@ int main(void)
             }
         } while (ordem_execucao != 3 && ordem_execucao != 4);
 
-        // Escolha do tipo de exibição
+        // Escolha do tipo de exibição no terminal
         do
         {
             system("cls");
